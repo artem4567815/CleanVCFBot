@@ -1,0 +1,1 @@
+from .vcf_generator import generate_vcf
