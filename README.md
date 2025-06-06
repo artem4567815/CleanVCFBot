@@ -17,7 +17,7 @@ CleanVCFBot — это Telegram-бот для обработки и конвер
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone <repo_url>
+   git clone https://github.com/artem4567815/CleanVCFBot.git
    cd CleanVCFBot
    ```
 
